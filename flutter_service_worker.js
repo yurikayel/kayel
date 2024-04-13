@@ -112,9 +112,9 @@ const RESOURCES = {"canvaskit/skwasm.wasm": "e42815763c5d05bba43f9d0337fa7d84",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "version.json": "3d4319178ebd39f82a4d3e4885f25ace",
-"index.html": "5758e53d302d31d12a9b566268cf9f54",
-"/": "5758e53d302d31d12a9b566268cf9f54",
-"main.dart.js": "4e1ef80522551d6fb9818dfa0c55578d",
+"index.html": "4d5eccafd54ca62811b49474e106ae5c",
+"/": "4d5eccafd54ca62811b49474e106ae5c",
+"main.dart.js": "0fd9a9aaec615108e57f7f8edd6ee7c4",
 "manifest.json": "0bc62cc84ffb31067eedb846a42e4126"};
 // The application shell files that are downloaded before a service worker can
 // start.
